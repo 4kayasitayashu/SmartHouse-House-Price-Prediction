@@ -1,0 +1,5 @@
+{
+  "model": "Random Forest",
+  "validation_rmse": 28898.29,
+  "training_rows": 1460
+}
